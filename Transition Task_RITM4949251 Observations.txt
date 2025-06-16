@@ -1,0 +1,47 @@
+Missing Parameters:
+
+1. Need to change the correct subnet mask to server. In build sheet it was mentioned as /24 (255.255.255.0) but in the server it was /32 (255.255.255.255).-Done
+
+2. Need to add the user ( svc_infra_sre ) and add the Zensar group as well.-Done
+
+3. Need to modify the cat /etc/chrony.conf file-Done
+
+[root@u0bvstormp001 ~]# chronyc sources-Done
+MS Name/IP address Stratum Poll Reach LastRx Last sample
+===============================================================================
+^? jitter.tickadj.net 0 10 0 - +0ns[ +0ns] +/- 0ns
+^? wasabi.ruselabs.com 0 10 0 - +0ns[ +0ns] +/- 0ns
+^? ip74-208-199-116.pbiaas.> 0 10 0 - +0ns[ +0ns] +/- 0ns
+^? h134-215-155-177.mdtnwi.> 0 10 0 - +0ns[ +0ns] +/- 0ns
+^? 104-167-215-195.ipv4.ber> 0 10 0 - +0ns[ +0ns] +/- 0ns
+^? ip229.ip-51-81-226.us 0 10 0 - +0ns[ +0ns] +/- 0ns
+^? jane.qotw.net 0 10 0 - +0ns[ +0ns] +/- 0ns
+^? 108.61.73.244 0 10 0 - +0ns[ +0ns] +/- 0ns
+^* gntp.myl.com 2 9 377 473 -21us[ -26us] +/- 4460us
+^- gntp.myl.com 2 8 377 79 +43us[ +43us] +/- 16ms
+^- gntp.myl.com 2 10 377 518 +1890us[+1885us] +/- 89ms
+^- gntp.myl.com 2 10 377 855 -622us[ -627us] +/- 89ms
+^- u6zpntpp001.myl.com 3 10 377 536 +13ms[ +13ms] +/- 165ms
+^- u6epntpp001.myl.com 4 10 377 603 +5499us[+5494us] +/- 156ms
+[root@u0bvstormp001 ~]#
+
+4. Need to add the server into CyberArk-Done
+
+5. Need to remove the below user from the server-Done
+      m567313:x:6143:100:Narasimman.Arunachalam@viatris.com:/home/m567313:/bin/bash
+
+6./usr/admin filesystem is not available in the server, need to mount it-Done Added the server to splunk monitoring tool-Done
+      [root@u0bvstormp001 ~]# df -h /usr/admin/
+      Filesystem Size Used Avail Use% Mounted on
+      /dev/mapper/rootvg-usr 10G 4.2G 5.9G 42% /usr
+n0bvsdb003:/usr_admin/usr_admin /usr/admin    nfs    nfsvers=3   0 0
+
+7. Need to add the server into BigFix-Done
+
+8. Need to add the below given users into Zensar group.-Done
+svc_unixadm 
+svc_atmn    
+calogon
+svc_unix
+svc_infra_sre
+

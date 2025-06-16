@@ -1,0 +1,21 @@
+Windows Build RITM Details:------
+
+New Build Transition | RITM4922097| RITM4939374 | Build to Run | VM
+
+RITM Description
+• Server Build Description - MID server at 6O-IDC
+• Build RITM/CR - RITM4922097 | RITM4939374
+• Server names part of the Build RITM/CR - W6OVSNATMD001
+• Transitioned Date - 02-Sep-2024
+• Attach the updated transition checklist for reference - Attached
+
+
+Unix Build RITM Details:-------
+
+ENT || 0B || OB-GDC||Ashburn||USA||  u0bvstormp001 || Transition request
+
+u0bvstormp001 | Transition request
+
+Hostname:  u0bvstormp001 
+Business RITM : RITM4935184
+Build RITM : RITM4940342

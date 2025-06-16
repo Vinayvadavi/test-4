@@ -1,0 +1,38 @@
+984  ls
+985  ip a
+986  cat /etc/resolv.conf
+987  nslookup
+988  subscription-manager list --consumed
+989  crontab  -l
+990  ip a
+991  nmtui
+992  ip a
+993  ifdown ens192
+994  if down ens192 exit; logout; q!
+995  userdel -r m567313
+996  cat /etc/passwd
+997  cat /etc/passwd | grep m567313
+998  cat /etc/groups
+999  cat /etc/group
+1000  cat /etc/chrony.conf
+1001  vi /etc/chrony.conf
+1002  systemctl restart chronyd
+1003  chronyc source
+1004  chronyc sources
+1006  df -h /usr/admin/
+1007  vi /etc/fstab
+1008  cat /etc/fstab
+1009  mount -av
+1010  df -Th
+995  useradd -G users,100 -g 100 -c "Ramesh.Palanisamy@viatris.com" -d /home/"svc_infra_sre" -m -u "6289" -s /bin/bash "svc_infra_sre"
+996  pam_tally2 --user=svc_infra_sre --reset;faillock --user svc_infra_sre --reset;echo 'svc_infra_sre:$6$.NxTHrKeb1h0.lAF$OMJXT1cldp8GYuaMVGtyjjI4fXY/A69MPGkCadbnAHmdRdHuMc33k5HIYAsSpCKd8bQ0ZJXloL1Sys0z2npea.'| chpasswd -e
+997  chage -l svc_infra_sre
+998  chage -M -1 svc_infra_sre
+999  chage -l svc_infra_sre
+1000  cat /etc/passwd
+1001  cat /etc/group
+1002  usermod -aG zensar svc_unix
+1003  usermod -aG zensar svc_infra_sre
+1004  cat /etc/group
+
+
