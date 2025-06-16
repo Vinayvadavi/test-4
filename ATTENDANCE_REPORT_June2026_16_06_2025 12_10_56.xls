@@ -1,0 +1,119 @@
+<div>
+	<table class="table table-hover" cellspacing="0" cellpadding="4" rules="all" border="1" id="MainContent_grdReport" style="color:#333333;width:100%;border-collapse:collapse;">
+		<tr style="background-color:#F1CB14;font-weight:bold;">
+			<th class="text-center" scope="col" style="font-weight:bold;">Date</th><th class="text-center" scope="col" style="font-weight:bold;">MID</th><th class="text-center" scope="col" style="font-weight:bold;">Employee Name</th><th class="text-center" scope="col" style="font-weight:bold;">Location</th><th class="text-center" scope="col" style="font-weight:bold;">Tower</th><th class="text-center" scope="col" style="font-weight:bold;">Vendor Name</th><th class="text-center" scope="col" style="font-weight:bold;">SOW Number</th><th class="text-center" scope="col" style="font-weight:bold;">Project Name</th><th class="text-center" scope="col" style="font-weight:bold;">Shift</th><th class="text-center" scope="col" style="font-weight:bold;">In Time</th><th class="text-center" scope="col" style="font-weight:bold;">Out Time</th><th class="text-center" scope="col" style="font-weight:bold;">Hours Worked</th><th class="text-center" scope="col" style="font-weight:bold;">Day Status</th><th class="text-center" scope="col" style="font-weight:bold;">Project Type</th><th class="text-center" scope="col" style="font-weight:bold;">Manager</th><th scope="col">Emp Status</th>
+		</tr><tr>
+			<td>01-Jun-2025</td><td>M676096</td><td>Keshavamurti  K</td><td>GC-Bangalore</td><td>Infra</td><td>NTT Data</td><td>INMP51363</td><td>SOW-MFG 2.0 Standard-NTT</td><td>OFF</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td align="center" style="color:Green;font-weight:bold;">OFF</td><td class="text-center">T&amp;M</td><td>Senthilnathan J</td><td>
+                            Active
+                            
+
+
+                        </td>
+		</tr><tr>
+			<td>02-Jun-2025</td><td>M676096</td><td>Keshavamurti  K</td><td>GC-Bangalore</td><td>Infra</td><td>NTT Data</td><td>INMP51363</td><td>SOW-MFG 2.0 Standard-NTT</td><td>G</td><td>02-Jun-2025 09:00 AM</td><td>02-Jun-2025 06:00 PM</td><td style="color:Red;font-weight:bold;">09:00</td><td align="center" style="color:Blue;font-weight:bold;">OD Approved</td><td class="text-center">T&amp;M</td><td>Senthilnathan J</td><td>
+                            Active
+                            
+
+
+                        </td>
+		</tr><tr>
+			<td>03-Jun-2025</td><td>M676096</td><td>Keshavamurti  K</td><td>GC-Bangalore</td><td>Infra</td><td>NTT Data</td><td>INMP51363</td><td>SOW-MFG 2.0 Standard-NTT</td><td>G</td><td>03-Jun-2025 09:00 AM</td><td>03-Jun-2025 06:00 PM</td><td style="color:Red;font-weight:bold;">09:00</td><td align="center" style="color:Blue;font-weight:bold;">OD Approved</td><td class="text-center">T&amp;M</td><td>Senthilnathan J</td><td>
+                            Active
+                            
+
+
+                        </td>
+		</tr><tr>
+			<td>04-Jun-2025</td><td>M676096</td><td>Keshavamurti  K</td><td>GC-Bangalore</td><td>Infra</td><td>NTT Data</td><td>INMP51363</td><td>SOW-MFG 2.0 Standard-NTT</td><td>G</td><td>04-Jun-2025 09:16 AM</td><td>04-Jun-2025 06:18 PM</td><td style="color:Red;font-weight:bold;">09:02</td><td align="center" style="color:Blue;font-weight:bold;">OD Approved</td><td class="text-center">T&amp;M</td><td>Senthilnathan J</td><td>
+                            Active
+                            
+
+
+                        </td>
+		</tr><tr>
+			<td>05-Jun-2025</td><td>M676096</td><td>Keshavamurti  K</td><td>GC-Bangalore</td><td>Infra</td><td>NTT Data</td><td>INMP51363</td><td>SOW-MFG 2.0 Standard-NTT</td><td>G</td><td>05-Jun-2025 08:57 AM</td><td>05-Jun-2025 05:59 PM</td><td style="color:Red;font-weight:bold;">09:01</td><td align="center" style="color:Blue;font-weight:bold;">OD Approved</td><td class="text-center">T&amp;M</td><td>Senthilnathan J</td><td>
+                            Active
+                            
+
+
+                        </td>
+		</tr><tr>
+			<td>06-Jun-2025</td><td>M676096</td><td>Keshavamurti  K</td><td>GC-Bangalore</td><td>Infra</td><td>NTT Data</td><td>INMP51363</td><td>SOW-MFG 2.0 Standard-NTT</td><td>G</td><td>06-Jun-2025 09:00 AM</td><td>06-Jun-2025 06:00 PM</td><td style="color:Red;font-weight:bold;">09:00</td><td align="center" style="color:Blue;font-weight:bold;">OD Approved</td><td class="text-center">T&amp;M</td><td>Senthilnathan J</td><td>
+                            Active
+                            
+
+
+                        </td>
+		</tr><tr>
+			<td>07-Jun-2025</td><td>M676096</td><td>Keshavamurti  K</td><td>GC-Bangalore</td><td>Infra</td><td>NTT Data</td><td>INMP51363</td><td>SOW-MFG 2.0 Standard-NTT</td><td>OFF</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td align="center" style="color:Green;font-weight:bold;">OFF</td><td class="text-center">T&amp;M</td><td>Senthilnathan J</td><td>
+                            Active
+                            
+
+
+                        </td>
+		</tr><tr>
+			<td>08-Jun-2025</td><td>M676096</td><td>Keshavamurti  K</td><td>GC-Bangalore</td><td>Infra</td><td>NTT Data</td><td>INMP51363</td><td>SOW-MFG 2.0 Standard-NTT</td><td>OFF</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td align="center" style="color:Green;font-weight:bold;">OFF</td><td class="text-center">T&amp;M</td><td>Senthilnathan J</td><td>
+                            Active
+                            
+
+
+                        </td>
+		</tr><tr>
+			<td>09-Jun-2025</td><td>M676096</td><td>Keshavamurti  K</td><td>GC-Bangalore</td><td>Infra</td><td>NTT Data</td><td>INMP51363</td><td>SOW-MFG 2.0 Standard-NTT</td><td>G</td><td>09-Jun-2025 09:00 AM</td><td>09-Jun-2025 06:00 PM</td><td style="color:Red;font-weight:bold;">09:00</td><td align="center" style="color:Blue;font-weight:bold;">OD Approved</td><td class="text-center">T&amp;M</td><td>Senthilnathan J</td><td>
+                            Active
+                            
+
+
+                        </td>
+		</tr><tr>
+			<td>10-Jun-2025</td><td>M676096</td><td>Keshavamurti  K</td><td>GC-Bangalore</td><td>Infra</td><td>NTT Data</td><td>INMP51363</td><td>SOW-MFG 2.0 Standard-NTT</td><td>G</td><td>10-Jun-2025 09:23 AM</td><td>10-Jun-2025 06:26 PM</td><td style="color:Red;font-weight:bold;">09:03</td><td align="center" style="color:Blue;font-weight:bold;">OD Approved</td><td class="text-center">T&amp;M</td><td>Senthilnathan J</td><td>
+                            Active
+                            
+
+
+                        </td>
+		</tr><tr>
+			<td>11-Jun-2025</td><td>M676096</td><td>Keshavamurti  K</td><td>GC-Bangalore</td><td>Infra</td><td>NTT Data</td><td>INMP51363</td><td>SOW-MFG 2.0 Standard-NTT</td><td>G</td><td>11-Jun-2025 09:49 AM</td><td>11-Jun-2025 06:19 PM</td><td style="color:Red;font-weight:bold;">08:29</td><td align="center" style="color:Blue;font-weight:bold;">OD Approved</td><td class="text-center">T&amp;M</td><td>Senthilnathan J</td><td>
+                            Active
+                            
+
+
+                        </td>
+		</tr><tr>
+			<td>12-Jun-2025</td><td>M676096</td><td>Keshavamurti  K</td><td>GC-Bangalore</td><td>Infra</td><td>NTT Data</td><td>INMP51363</td><td>SOW-MFG 2.0 Standard-NTT</td><td>G</td><td>12-Jun-2025 09:19 AM</td><td>12-Jun-2025 06:21 PM</td><td style="color:Red;font-weight:bold;">09:02</td><td align="center" style="color:Blue;font-weight:bold;">OD Approved</td><td class="text-center">T&amp;M</td><td>Senthilnathan J</td><td>
+                            Active
+                            
+
+
+                        </td>
+		</tr><tr>
+			<td>13-Jun-2025</td><td>M676096</td><td>Keshavamurti  K</td><td>GC-Bangalore</td><td>Infra</td><td>NTT Data</td><td>INMP51363</td><td>SOW-MFG 2.0 Standard-NTT</td><td>G</td><td>13-Jun-2025 09:00 AM</td><td>13-Jun-2025 06:00 PM</td><td style="color:Red;font-weight:bold;">09:00</td><td align="center" style="color:Blue;font-weight:bold;">OD Approved</td><td class="text-center">T&amp;M</td><td>Senthilnathan J</td><td>
+                            Active
+                            
+
+
+                        </td>
+		</tr><tr>
+			<td>14-Jun-2025</td><td>M676096</td><td>Keshavamurti  K</td><td>GC-Bangalore</td><td>Infra</td><td>NTT Data</td><td>INMP51363</td><td>SOW-MFG 2.0 Standard-NTT</td><td>OFF</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td align="center" style="color:Green;font-weight:bold;">OFF</td><td class="text-center">T&amp;M</td><td>Senthilnathan J</td><td>
+                            Active
+                            
+
+
+                        </td>
+		</tr><tr>
+			<td>15-Jun-2025</td><td>M676096</td><td>Keshavamurti  K</td><td>GC-Bangalore</td><td>Infra</td><td>NTT Data</td><td>INMP51363</td><td>SOW-MFG 2.0 Standard-NTT</td><td>OFF</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td align="center" style="color:Green;font-weight:bold;">OFF</td><td class="text-center">T&amp;M</td><td>Senthilnathan J</td><td>
+                            Active
+                            
+
+
+                        </td>
+		</tr><tr>
+			<td>16-Jun-2025</td><td>M676096</td><td>Keshavamurti  K</td><td>GC-Bangalore</td><td>Infra</td><td>NTT Data</td><td>INMP51363</td><td>SOW-MFG 2.0 Standard-NTT</td><td>G</td><td>16-Jun-2025 09:22 AM</td><td>&nbsp;</td><td>&nbsp;</td><td align="center" style="color:Blue;font-weight:bold;">OD Approved</td><td class="text-center">T&amp;M</td><td>Senthilnathan J</td><td>
+                            Active
+                            
+
+
+                        </td>
+		</tr>
+	</table>
+</div>
